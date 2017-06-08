@@ -1,6 +1,6 @@
 /*
-preparation:
-meet problem in a cycle: if velocity of fast pointer is two times as fast as slow pointer,
+Preparation:
+meeting problem in a cycle: if velocity of fast pointer is two times as fast as slow pointer,
 these two pointer will meet at the starting point in the first cycle.
 Prove:
 At meeting point, slow steps is i, fast steps is 2i, difference is i.
